@@ -30,3 +30,6 @@ But When one of those boxes are revealed, 2/3 probability gets concentrated from
 |     |    |     |    |     |
 |-----|    |-----|    |-----|
   1/3                   2/3
+
+The program is designed to always choose the switch play to measure the win ratio.
+Here, the program shows after over 10000 iterations that, after the switch play, your win ratio is near 66.66% or 2/3.
